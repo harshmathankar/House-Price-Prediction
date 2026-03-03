@@ -43,7 +43,7 @@ This project predicts house prices using a regression model trained on historica
 
 ## Demo
 
- Click here to try the live app](https://housepricepredictorproject.streamlit.app/)
+ [Click here to try the live app](https://housepricepredictorproject.streamlit.app/)
 
 ---
 
